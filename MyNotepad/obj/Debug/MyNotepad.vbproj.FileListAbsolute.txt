@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\Hp\source\repos\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\Hp\source\repos\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\Hp\source\repos\MyNotepad\bin\Debug\MyNotepad.xml
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.vbproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.Resources.resources
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.xml
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.pdb
+C:\Users\Hp\source\repos\MyNotepad\obj\Debug\MyNotepad.AboutMyNotepad.resources

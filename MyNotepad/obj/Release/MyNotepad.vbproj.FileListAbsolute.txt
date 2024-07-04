@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\MyNotepad\bin\Release\MyNotepad.exe.config
+C:\Users\Hp\source\repos\MyNotepad\bin\Release\MyNotepad.exe
+C:\Users\Hp\source\repos\MyNotepad\bin\Release\MyNotepad.pdb
+C:\Users\Hp\source\repos\MyNotepad\bin\Release\MyNotepad.xml
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.vbproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.AboutMyNotepad.resources
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.Form1.resources
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.Resources.resources
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.exe
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.xml
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.pdb
+C:\Users\Hp\source\repos\MyNotepad\obj\Release\MyNotepad.SplashScreen.resources
